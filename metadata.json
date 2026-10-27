@@ -1,0 +1,8 @@
+{
+  "name": "Praktik Mantri Desaku - Sistem Informasi Rekam Medis",
+  "description": "Sistem Informasi Pengelolaan Rekam Medis pada Praktik Mantri Desaku Berbasis Website untuk pengelolaan data pasien, pencatatan rekam medis, riwayat kunjungan, dan laporan digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
